@@ -1,0 +1,45 @@
+image: assets/img/photo_cv.jpg
+username: Aloïs Castellano
+description: "
+  My research focus on the impact of finite temperature on the properties of materials.
+  Notably, I’m interested by the impact of strong anharmonicity on the thermodynamical and transport properties of solids.  
+
+
+  In order to decrease the cost of ab initio molecular dynamics, I developed during my PHD the Machine-Learning Assisted Canonical Sampling method, which uses machine-learning force-fields to sample the canonical distribution of a system with near ab initio accuracy."
+webpage: https://OrbitalC.github.io
+experience: # Remove for hiding the experience section
+  - start: october 2018
+    end: january 2022
+    experience : CEA Bruyères-le-Châtel, France, PHD Student
+  - start: february 2022
+    end: current
+    experience : Université de Liège, Belgium, Postdoctoral researcher
+interests: # Remove for hiding the interests section
+  - Ab initio simulations
+  - Machine-learning interatomic potential
+  - Finite temperature properties
+  - Thermal transport
+  - Free energy calculations
+skills: # Remove for hiding the skills section
+  - skill: DFT simulations (Abinit)
+  - skill: Molecular dynamics simulations (LAMMPS and i-pi)
+  - skill: Machine-learning interatomic potentials fitting (SNAP)
+  - skill: Development in Python and Fortran
+social:
+  email: alois.castellano@uliege.be
+  orcid: 0000-0002-8783-490X
+  scholar: V5KIbMcAAAAJ
+  publons: 
+  research_gate: 
+  dblp:  # Full URL
+  semantic_scholar:  # Full URL
+  linkedin:  # Full URL 
+  github: OrbitalC
+  gitlab: 
+  bitbucket: 
+  google_plus:
+  mastodon: 
+  twitter: 
+  youtube:
+  facebook:
+  instagram:

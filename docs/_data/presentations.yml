@@ -1,0 +1,20 @@
+- presentation:
+    title: Ab initio canonical sampling based on variational inference
+    event: 1ères journées du GDR-IAMAT, Paris, France
+    date: 31/05/2002
+- presentation:
+    title: Machine-Learning Assisted Canonical Sampling
+    event: Atelier "Méthodes machine-learning pour la modélisation des matériaux" du GDR MODMAT, Toulouse, France
+    date: 23/09/2022
+- presentation:
+    title: Accelerating the computation of finite-temperature properties with Machine-Learning Assisted Canonical Sampling
+    event: 21st Abinit developer workshop, online event
+    date: 02/06/2021
+- presentation:
+    title: Thermodynamic properties of UMo alloys from first-principles
+    event: 5th workshop on ab-initio phonon calculations, Krakow, Poland
+    date: 05/12/2019
+- presentation:
+    title: Thermodynamic properties of UMo alloys from first-principles
+    event: 49th journées des actinides, Erice, Italy
+    date: 18/04/2019
