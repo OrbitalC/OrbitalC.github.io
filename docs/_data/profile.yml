@@ -21,9 +21,9 @@ interests: # Remove for hiding the interests section
   - Thermal transport
   - Free energy calculations
 skills: # Remove for hiding the skills section
-  - skill: DFT simulations (Abinit)
-  - skill: Molecular dynamics simulations (LAMMPS and i-pi)
-  - skill: Machine-learning interatomic potentials fitting (SNAP)
+  - skill: DFT simulations
+  - skill: Molecular dynamics simulations
+  - skill: Machine-learning interatomic potentials fitting
   - skill: Development in Python and Fortran
 social:
   email: alois.castellano@uliege.be
