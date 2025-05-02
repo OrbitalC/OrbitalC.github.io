@@ -2,10 +2,7 @@ image: assets/img/photo_cv.jpg
 username: Aloïs Castellano
 description: "
   My research focus on the impact of finite temperature on the properties of materials.
-  Notably, I’m interested by the impact of strong anharmonicity on the thermodynamical and transport properties of solids.  
-
-
-  In order to decrease the cost of ab initio molecular dynamics, I developed during my PHD the Machine-Learning Assisted Canonical Sampling method, which uses machine-learning force-fields to sample the canonical distribution of a system with near ab initio accuracy."
+  In particular, I’m interested by the impact of strong anharmonicity on the thermodynamical and transport properties of solids."
 webpage: https://OrbitalC.github.io
 experience: # Remove for hiding the experience section
   - start: october 2018
@@ -17,6 +14,7 @@ experience: # Remove for hiding the experience section
 interests: # Remove for hiding the interests section
   - Ab initio simulations
   - Machine-learning interatomic potential
+  - Anharmonicity
   - Finite temperature properties
   - Thermal transport
   - Free energy calculations
@@ -33,13 +31,13 @@ social:
   research_gate: 
   dblp:  # Full URL
   semantic_scholar:  # Full URL
-  linkedin:  # Full URL 
+  linkedin: www.linkedin.com/in/alois-castellano
   github: OrbitalC
-  gitlab: 
-  bitbucket: 
+  gitlab:
+  bitbucket:
   google_plus:
-  mastodon: 
-  twitter: 
+  mastodon:
+  twitter:
   youtube:
   facebook:
   instagram:

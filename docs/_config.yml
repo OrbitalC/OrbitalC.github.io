@@ -1,26 +1,28 @@
 # Site Settings
+# Do not use trailing slash (i.e. "/Sample"). For skipping base URL, leave empty quotes ("")
 baseurl: ""
 
 # Features Setting
 # Turn subpages on or off
 publications: True
 presentations: True
-blog: True
+blog: False
+tags: False
 
 # Language of the website
 lang: en
 
 # Search engine optimization settings
 title: Aloïs Castellano
-tagline: 
+tagline:
 description: My online resume
 author: Aloïs Castellano
 twitter:
-  username: 
-  card: 
+  username:
+  card:
 logo: /assets/img/smile.png
 social:
-  name: 
+  name:
   links:
 locale: en_GB
 
@@ -32,7 +34,7 @@ theme_settings:
   interests_title: RESEARCH INTERESTS
   skills_title: SKILLS
   awards_title: AWARDS
-  projects_title: 
+  projects_title:
   recentpubs_title: RECENT PUBLICATIONS
 
 # Pagination

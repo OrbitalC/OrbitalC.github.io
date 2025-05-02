@@ -1,7 +1,27 @@
 - presentation:
+    title: (Invited) Revisiting phonons, the mode-coupling theory of anharmonic lattice dynamics
+    event: Qmat seminar, Utrecht university, Pays-Bas
+    date: 27/11/2024
+- presentation:
+    title: (Invited) From thermodynamics to vibrational spectra and transport, a theory of the anharmonic crystal
+    event: ETSF young researcher meeting, Toulouse, France
+    date: 29/05/2024
+- presentation:
+    title: (Invited) Vibrational properties of materials from density functional theory
+    event: EUSpecLab Introductory Training School, SanBenedetodelTronto, Italy.
+    date: 20/06/2023
+- presentation:
+    title: Anharmonic lattice dynamics for quantum and classical crystals
+    event: CMD30-FisMat 2023, Milan, Italy
+    date: 07/09/2023
+- presentation:
+    title: Anharmonic lattice dynamics for quantum and classical crystals
+    event: ETSF Young researcher meeting, Zaragoza, Spain
+    date: 15/06/2023
+- presentation:
     title: Ab initio canonical sampling based on variational inference
     event: 1ères journées du GDR-IAMAT, Paris, France
-    date: 31/05/2002
+    date: 31/05/2022
 - presentation:
     title: Machine-Learning Assisted Canonical Sampling
     event: Atelier "Méthodes machine-learning pour la modélisation des matériaux" du GDR MODMAT, Toulouse, France
