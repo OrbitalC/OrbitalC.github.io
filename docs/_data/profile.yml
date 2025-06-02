@@ -13,8 +13,11 @@ experience: # Remove for hiding the experience section
     end: january 2022
     experience : CEA Bruyères-le-Châtel, France, PHD Student
   - start: february 2022
-    end: current
+    end: May 2025
     experience : Université de Liège, Belgium, Postdoctoral researcher
+  - start: June 2025
+    end: current
+    experience : Utrecht University, Netherlands, Postdoctoral researcher
 interests: # Remove for hiding the interests section
   - Ab initio simulations
   - Machine-learning interatomic potential
